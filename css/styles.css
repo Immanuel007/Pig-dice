@@ -14,10 +14,21 @@ body
   font-family:serif;
   background-color: lightblue;
   color:purple;
-  font-size: 30px;
 }
 #font
 {
   font-family: 'Gaegu', cursive;
-
+  font-size: 40px;
+}
+.well
+{
+  background-color: orange;
+  padding-bottom: 200px;
+}
+#float
+{
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 300px;
+  margin-left: 100px;
 }
