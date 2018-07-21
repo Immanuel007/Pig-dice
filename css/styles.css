@@ -9,3 +9,8 @@ font-size: 24px;
 text-align: center;
 margin: 5px;
 }
+body
+{
+  background-color: lightblue;
+  color:violet;;
+}
