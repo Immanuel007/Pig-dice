@@ -11,6 +11,13 @@ margin: 5px;
 }
 body
 {
+  font-family:serif;
   background-color: lightblue;
-  color:violet;;
+  color:purple;
+  font-size: 30px;
+}
+#font
+{
+  font-family: 'Gaegu', cursive;
+
 }
