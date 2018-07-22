@@ -4,18 +4,20 @@ Pig-Dice
 Immanuel Saina
 ## Description
 In this project, two players are playing a game with a dice. So when player 1 rolls the dice, His/her results are recorded and when player two rolls the dice again, His/Her results are also recorded too. So when they play a couple of times, each of their results are added. So when one player reaches 100, he/she is declared as the winner.
-## Getting Started
 
 ## Prerequisites
+You need the following to make edits to the repository:
 
-## Installing
-
-## Contributing
+1.git
+2.An integrated development environment
 
 ## Built With
-
+1.bootstrap
+2.jquery
+3.git
+4.HTML
 ## Running the tests
-
+Does not function as expected but later will make changes.
 ## Requirements
 One will require to use jQuery links and bootstrap. One must be able to create variables so that your work is functioning. One will require to use css to style his or her page. The user-Interface logic and back-end logic are separate and hence both are supposed to function well without issues. The user shouldn't be able to have a hard time thus make it easy for him to play the game with ease. One will also use buttons on the User-interface logic.
 ## Bugs
