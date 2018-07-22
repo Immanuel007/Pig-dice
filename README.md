@@ -8,14 +8,10 @@ In this project, two players are playing a game with a dice. So when player 1 ro
 ## Prerequisites
 You need the following to make edits to the repository:
 
-1.git
-2.An integrated development environment
+git and An integrated development environment
 
 ## Built With
-1.bootstrap
-2.jquery
-3.git
-4.HTML
+Bootstrap,jquery,git and HTML
 ## Running the tests
 Does not function as expected but later will make changes.
 ## Requirements
