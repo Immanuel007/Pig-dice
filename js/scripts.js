@@ -1,3 +1,4 @@
+//business logic
 function rollDice()
 {
     var myDie1 = document.getElementById("myDie1");
@@ -14,3 +15,11 @@ function rollDice()
       status.innerHTML += " DOUBLES! You got a free turn!";
     }
 }
+
+//User-interface logic
+
+$(document).ready(function () {
+    $("#flip").click(function(){
+        $("#myDie1").slideToggle("slow");
+    });
+});
