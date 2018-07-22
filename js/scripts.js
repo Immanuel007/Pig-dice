@@ -1,13 +1,13 @@
 function rollDice()
 {
-    var die1 = document.getElementById("die1");
-    var die2 = document.getElementById("die2");
+    var myDie1 = document.getElementById("myDie1");
+    var myDie2 = document.getElementById("myDie2");
     var status = document.getElementById("status");
     var d1 = Math.floor(Math.random() * 6) + 1;
     var d2 = Math.floor(Math.random() * 6) + 1;
     var diceTotal = d1 + d2;
-    die1.innerHTML = d1;
-    die2.innerHTML = d2;
+    myDie1.innerHTML = d1;
+    myDie2.innerHTML = d2;
     status.innerHTML = "You rolled" +diceTotal+",";
     if(d1 == d2)
     {
